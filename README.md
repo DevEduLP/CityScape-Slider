@@ -3,7 +3,7 @@
 Um slider interativo desenvolvido com HTML, CSS e JavaScript puro, apresentando destinos turísticos em destaque com animações suaves e navegação por thumbnails.
 
 ## 🚀 Demonstração
-[Adicionar link do deploy aqui]
+https://city-scape-slider.vercel.app/
 
 ## 🛠 Tecnologias Utilizadas
 
